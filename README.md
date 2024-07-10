@@ -30,6 +30,11 @@
   </a>
 </p>
 
+![Mohit GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-Kucheriya&show_icons=true&theme=dark)
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Kucheriya&theme=dark)
+
 
 
 
