@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently pursuing Full Stack Development 
 - 🌱 I’m currently learning ReactJs
-- 📫 How to reach me: kucheriyamohit@gmail.com
+- 📫 How to reach me: <a href="mailto:kucheriyamohit@gmail.com?subject=Question&body=Hello,%20I%20have%20a%20question%20about...">email me</a>
 
   
 ### Connect with me :
