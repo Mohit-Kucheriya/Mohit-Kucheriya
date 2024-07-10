@@ -7,9 +7,10 @@
   
 ### Connect with me:
 <div id="" align="center">
-  <a href="mailto:kucheriyamohit@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://discord.com/channels/@me">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+ 
   <a href="https://www.linkedin.com/in/mohit-kucheriya-77998924a/">
      <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
