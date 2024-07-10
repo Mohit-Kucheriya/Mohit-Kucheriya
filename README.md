@@ -1,16 +1,32 @@
-## Hi there 👋
+ <h1 align="center">Hi 👋, I'm Mohit Kucheriya</h1>
 
-<!--
-**Mohit-Kucheriya/Mohit-Kucheriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing Full Stack Development 
+- 🌱 I’m currently learning ReactJs
+- 📫 How to reach me: kucheriyamohit@gmail.com
 
-Here are some ideas to get you started:
+  
+### Connect with me:
+<div id="" align="center">
+  <a href="mailto:kucheriyamohit@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohit-kucheriya-77998924a/">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   <a href="https://x.com/MohitKucheriya">
+ <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  
+</div>
+
+### Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,html,css,bootstrap,js,express,nodejs,mongodb,react,git,github" />
+  </a>
+</p>
+
+
+
+
