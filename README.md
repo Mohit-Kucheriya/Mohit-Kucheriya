@@ -5,7 +5,7 @@
 - 📫 How to reach me: kucheriyamohit@gmail.com
 
   
-### Connect with me:
+### Connect with me :
 <div id="" align="center">
 
   <a href="https://www.linkedin.com/in/mohit-kucheriya-77998924a/">
@@ -23,7 +23,7 @@
   </a>
 </div>
 
-### Languages and Tools:
+### Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,html,css,bootstrap,js,express,nodejs,mongodb,react,redux,git,github" />
