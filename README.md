@@ -6,22 +6,26 @@
 
   
 ### Connect with me :
-<div id="" align="center">
 
+<p align="center">
   <a href="https://www.linkedin.com/in/mohit-kucheriya-77998924a/">
      <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-     <a href="https://x.com/MohitKucheriya">
- <img src="https://skillicons.dev/icons?i=twitter" />
+ 
+   <a href="https://x.com/MohitKucheriya">
+     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   
   <a href="https://www.instagram.com/pisuuu_4022/?next=%2F">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  
   <a href="https://github.com/Mohit-Kucheriya">
     <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</div>
+  </a>  
+ </p>
+
+
 
 ### Languages and Tools :
 <p align="center">
