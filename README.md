@@ -19,7 +19,7 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 
 ### Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,express,nodejs,mongodb,react,redux,git,github" alt="Languages and Tools"/>
   </a>
@@ -32,26 +32,14 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Kucheriya&theme=dark)
 
- ### Connect with me
+### Connect with me
 
 
-<p align="center" style="display: flex; justify-content: center;">
-  <a href="mailto:kucheriyamohit@gmail.com" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohit-kucheriya-77998924a/" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/MohitKucheriya" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
-  </a>
-  <a href="https://www.instagram.com/pisuuu_4022/?next=%2F" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/Mohit-Kucheriya" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48">](mailto:kucheriyamohit@gmail.com)&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48">](https://www.linkedin.com/in/mohit-kucheriya-77998924a/)&nbsp; 
+[<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48">](https://x.com/MohitKucheriya)&nbsp; 
+[<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48">](https://www.instagram.com/pisuuu_4022/?next=%2F)&nbsp; 
+[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48">](https://github.com/Mohit-Kucheriya)
 
 
 
