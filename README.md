@@ -34,22 +34,23 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 
  ### Connect with me
 
-<p align="center">
-    <a href="mailto:kucheriyamohit@gmail.com">
-     <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn"/>
+
+<p align="center" style="display: flex; justify-content: center;">
+  <a href="mailto:kucheriyamohit@gmail.com" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohit-kucheriya-77998924a/">
-     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mohit-kucheriya-77998924a/" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/MohitKucheriya">
-     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
+  <a href="https://x.com/MohitKucheriya" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/pisuuu_4022/?next=%2F">
+  <a href="https://www.instagram.com/pisuuu_4022/?next=%2F" style="margin: 0 10px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
-  <a href="https://github.com/Mohit-Kucheriya">
+  <a href="https://github.com/Mohit-Kucheriya" style="margin: 0 10px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>  
+  </a>
 </p>
 
 
