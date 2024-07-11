@@ -27,10 +27,7 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 
 ### GitHub Stats
 
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-Kucheriya&show_icons=true&theme=dark)
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Kucheriya&theme=dark)
+<img src="https://myreadme.vercel.app/api/embed/Mohit-Kucheriya?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### Connect with me
 
@@ -40,6 +37,10 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 [<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48">](https://x.com/MohitKucheriya)&nbsp; 
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48">](https://www.instagram.com/pisuuu_4022/?next=%2F)&nbsp; 
 [<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48">](https://github.com/Mohit-Kucheriya)
+
+
+
+
 
 
 
