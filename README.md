@@ -32,10 +32,10 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 ### Connect with me
 
 
-[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48">](mailto:kucheriyamohit@gmail.com)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48">](https://www.linkedin.com/in/mohit-kucheriya-77998924a/)&nbsp; 
-[<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48">](https://x.com/MohitKucheriya)&nbsp; 
-[<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48">](https://www.instagram.com/pisuuu_4022/?next=%2F)&nbsp; 
+[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48">](mailto:kucheriyamohit@gmail.com)&nbsp;&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48">](https://www.linkedin.com/in/mohit-kucheriya-77998924a/)&nbsp;&nbsp; 
+[<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48">](https://x.com/MohitKucheriya)&nbsp;&nbsp; 
+[<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48">](https://www.instagram.com/pisuuu_4022/?next=%2F)&nbsp;&nbsp; 
 [<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48">](https://github.com/Mohit-Kucheriya)
 
 
