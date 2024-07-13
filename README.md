@@ -21,7 +21,7 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,express,nodejs,mongodb,react,redux,git,github" alt="Languages and Tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,express,nodejs,mongodb,react,redux,tailwind,git,github" alt="Languages and Tools"/>
   </a>
 </p>
 
