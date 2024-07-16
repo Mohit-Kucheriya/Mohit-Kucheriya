@@ -8,7 +8,7 @@
 
 ### Projects
 
- **Wanderlust: A web app for travelers to share and explore travel experiences**:
+ Wanderlust: A web app for travelers to share and explore travel experiences
  ### Project Overview
 
 Wanderlust is a web application designed to help travelers share and explore travel experiences. Users can create accounts, log in, and post about their travels, including descriptions and photos. The application leverages modern web development technologies and best practices to ensure a smooth and secure user experience.
