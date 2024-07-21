@@ -27,7 +27,7 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 
 ### GitHub Stats
 
-<img src="https://myreadme.vercel.app/api/embed/Mohit-Kucheriya?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/Mohit-Kucheriya?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ### Connect with me
 
