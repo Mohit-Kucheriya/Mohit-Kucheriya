@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I'm Mohit Kucheriya</h1>
+ <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="200" alt="hellogif"> I'm Mohit Kucheriya</h1>
 
 ### About Me
 
@@ -27,7 +27,10 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 
 ### GitHub Stats
 
-<img src="https://myreadme.vercel.app/api/embed/Mohit-Kucheriya?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!-- <img src="https://myreadme.vercel.app/api/embed/Mohit-Kucheriya?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiyhbrand&show_icons=true&locale=en&layout=compact" alt="amarjeet" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohit-Kucheriya&show_icons=true&locale=en" alt="mohit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Kucheriya&" alt="" /></p>
 
 ### Connect with me
 
@@ -36,6 +39,10 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 [<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48">](https://x.com/MohitKucheriya)&nbsp; 
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48">](https://www.instagram.com/pisuuu_4022/?next=%2F)&nbsp; 
 [<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48">](https://github.com/Mohit-Kucheriya)
+
+
+
+
 
 
 
