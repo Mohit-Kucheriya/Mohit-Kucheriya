@@ -1,4 +1,4 @@
- <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="200" alt="hellogif"> I'm Mohit Kucheriya</h1>
+ <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="200" alt="hellogif"> I'm Mohit Kucheriya </h1>
 
 ### About Me
 
@@ -28,9 +28,9 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 ### GitHub Stats
 
 <!-- <img src="https://myreadme.vercel.app/api/embed/Mohit-Kucheriya?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiyhbrand&show_icons=true&locale=en&layout=compact" alt="amarjeet" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiyhbrand&show_icons=true&locale=en&layout=compact" alt="mohit" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohit-Kucheriya&show_icons=true&locale=en" alt="mohit" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Kucheriya&" alt="" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Kucheriya&" alt="mohit" /></p>
 
 ### Connect with me
 
