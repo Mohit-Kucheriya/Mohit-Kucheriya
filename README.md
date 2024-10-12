@@ -2,9 +2,9 @@
 
 ### About Me
 
-🚀 Currently diving deep into Full Stack Development.
-🌱  Focused on honing my JavaScript skills, laying a strong foundation for modern web development.
-💡 As a fresher, I'm on the lookout for exciting internships to kickstart my web development career and contribute my skills to real-world projects.
+- 🚀 Currently diving deep into Full Stack Development.
+- 🌱  Focused on honing my JavaScript skills, laying a strong foundation for modern web development.
+- 💡 As a fresher, I'm on the lookout for exciting internships to kickstart my web development career and contribute my skills to real-world projects.
 
 ### Projects
 
