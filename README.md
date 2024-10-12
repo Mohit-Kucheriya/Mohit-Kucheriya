@@ -2,9 +2,9 @@
 
 ### About Me
 
-- 🔭 I’m currently pursuing Full Stack Development.
-- 🌱 I’m currently learning ReactJs.
-- 💼 I'm a fresher actively seeking opportunities in the web development field, looking for internships.
+🚀 Currently diving deep into Full Stack Development.
+🌱  Focused on honing my JavaScript skills, laying a strong foundation for modern web development.
+💡 As a fresher, I'm on the lookout for exciting internships to kickstart my web development career and contribute my skills to real-world projects.
 
 ### Projects
 
