@@ -4,7 +4,6 @@
 
 - 🌟 Aspiring Web Developer on a Journey to Mastery
 - 📚 Documenting my progress from basics to advanced in JavaScript and beyond.
-- 📂 Ultimate JavaScript Repository – a comprehensive guide covering every fundamental and intricate detail, aimed at building a strong programming foundation
 - 🎯 Not striving for "perfection," but committed to improving daily as a programmer.
 - 🚀 Currently diving into Full Stack Development: completed HTML, CSS, and JavaScript, now exploring ReactJS. Open to internships and hands-on opportunities to grow!
 
