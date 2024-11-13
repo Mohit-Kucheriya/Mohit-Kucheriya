@@ -2,9 +2,11 @@
 
 ### About Me
 
-- 🚀 Currently diving deep into Full Stack Development.
-- 🌱  Focused on honing my JavaScript skills, laying a strong foundation for modern web development.
-- 💡 As a fresher, I'm on the lookout for exciting internships to kickstart my web development career and contribute my skills to real-world projects.
+- 🌟 Aspiring Web Developer on a Journey to Mastery
+- 📚 Documenting my progress from basics to advanced in JavaScript and beyond.
+- 📂 Ultimate JavaScript Repository – a comprehensive guide covering every fundamental and intricate detail, aimed at building a strong programming foundation
+- 🎯 Not striving for "perfection," but committed to improving daily as a programmer.
+- 🚀 Currently diving into Full Stack Development: completed HTML, CSS, and JavaScript, now exploring ReactJS. Open to internships and hands-on opportunities to grow!
 
 ### Projects
 
