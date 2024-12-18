@@ -29,7 +29,7 @@ Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrend
 ### GitHub Stats
 
 <!-- <img src="https://myreadme.vercel.app/api/embed/Mohit-Kucheriya?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesiyhbrand&show_icons=true&locale=en&layout=compact" alt="mohit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-Kucheriya&show_icons=true&locale=en&layout=compact" alt="mohit" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohit-Kucheriya&show_icons=true&locale=en" alt="mohit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Kucheriya&" alt="mohit" /></p>
 
