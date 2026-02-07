@@ -1,58 +1,52 @@
- <h1 align="center"><img align="center" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="200" alt="hellogif"> I'm Mohit Kucheriya </h1>
+<h1 align="center">Hi, I’m Mohit Kucheriya 👋</h1>
 
-### About Me
-
-- 🌟 Aspiring Web Developer on a Journey to Mastery
-- 📚 Documenting my progress from basics to advanced in JavaScript and beyond.
-- 🎯 Not striving for "perfection," but committed to improving daily as a programmer.
-- 🚀 Currently diving into Full Stack Development: completed HTML, CSS, and JavaScript, now exploring ReactJS. Open to internships and hands-on opportunities to grow!
-
-### Projects
-
- Wanderlust: A web app for travelers to share and explore travel experiences
- ### Project Overview
-
-Wanderlust is a web application designed to help travelers share and explore travel experiences. Users can create accounts, log in, and post about their travels, including descriptions and photos. The application leverages modern web development technologies and best practices to ensure a smooth and secure user experience.
-
-### Visit the Website
-
-Check out the live application here: [Wanderlust](https://wanderlust-srtn.onrender.com/listings)
-
-### Languages and Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,express,nodejs,mongodb,react,redux,tailwind,git,github" alt="Languages and Tools"/>
-  </a>
+<p align="center">
+Frontend Developer (Entry Level) • React • Next.js
 </p>
 
-### GitHub Stats
+---
 
-<!-- <img src="https://myreadme.vercel.app/api/embed/Mohit-Kucheriya?panels=userstatistics,toplanguages,commitgraph" alt="reimaginedreadme" /> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-Kucheriya&show_icons=true&locale=en&layout=compact" alt="mohit" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohit-Kucheriya&show_icons=true&locale=en" alt="mohit" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Kucheriya&" alt="mohit" /></p>
+### About
 
-### Connect with me
+I’m a frontend developer working with **React and Next.js**, with hands-on experience building real-world web applications through personal and guided projects.
 
-[<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48" >](mailto:kucheriyamohit@gmail.com)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48">](https://www.linkedin.com/in/mohit-kucheriya-77998924a/)&nbsp; 
-[<img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="48">](https://x.com/MohitKucheriya)&nbsp; 
-[<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48">](https://www.instagram.com/pisuuu_4022/?next=%2F)&nbsp; 
-[<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48">](https://github.com/Mohit-Kucheriya)
+My focus has been on understanding how modern frontend applications are structured — from component-based architecture to managing server and UI state, handling asynchronous data, and building clear user flows.
 
+I’ve built both **internal management tools** and **customer-facing applications**, working with features such as authentication, data mutations, and responsive interfaces. I value writing clean, understandable code and improving steadily by building complete applications rather than isolated demos.
 
+I’m currently looking for an **entry-level frontend role** where I can work in a real development environment, learn from experienced engineers, and contribute to meaningful products.
 
+---
 
+### Featured Projects
 
+- **Movie App — React Fundamentals**  
+  Movie browsing application built to strengthen core React concepts and component reuse.  
+  🔗 Live: https://movie-app-two-beta-29.vercel.app/
 
+- **The Wild Oasis — Internal Management App (React)**  
+  Internal tool to manage cabins, bookings, and guest check-ins using modern server-state patterns.  
+  🔗 Live: https://the-wild-oasis-sage-chi.vercel.app/
 
+- **The Wild Oasis — Customer Website (Next.js)**  
+  Customer-facing hotel website with authentication, reservations, and server-side data handling.  
+  🔗 Live: https://the-wild-oasis-website-xi-lemon.vercel.app/
+  
+---
 
+### Tech Stack
 
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React, Next.js  
+- **State Management:** React Query, Context API  
+- **Styling:** Tailwind CSS, Styled Components, GSAP (basic)  
+- **Backend / DB (Basic):** Supabase  
+- **Tools:** Git, GitHub, Vercel  
 
+---
 
+### Connect
 
+- 📧 Email: kucheriyamohit@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohit-kucheriya-77998924a/  
 
-
-
-
+Feel free to explore my projects or reach out if you’d like to connect.
