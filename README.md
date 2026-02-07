@@ -22,15 +22,18 @@ I’m currently looking for an **entry-level frontend role** where I can work in
 
 - **Movie App — React Fundamentals**  
   Movie browsing application built to strengthen core React concepts and component reuse.  
-  🔗 Live: https://movie-app-two-beta-29.vercel.app/
+  🔗 Live: https://movie-app-two-beta-29.vercel.app/  
+  💻 Code: https://github.com/Mohit-Kucheriya/Movie-App.git
 
 - **The Wild Oasis — Internal Management App (React)**  
   Internal tool to manage cabins, bookings, and guest check-ins using modern server-state patterns.  
-  🔗 Live: https://the-wild-oasis-sage-chi.vercel.app/
+  🔗 Live: https://the-wild-oasis-sage-chi.vercel.app/  
+  💻 Code: https://github.com/Mohit-Kucheriya/UltimateReact/tree/56cf1253cc1a2cb29c2b47e079016579ac705f15/Part-4_Professional-React-Development/03_Project_The-Wild-Oasis
 
 - **The Wild Oasis — Customer Website (Next.js)**  
   Customer-facing hotel website with authentication, reservations, and server-side data handling.  
-  🔗 Live: https://the-wild-oasis-website-xi-lemon.vercel.app/
+  🔗 Live: https://the-wild-oasis-website-xi-lemon.vercel.app/  
+  💻 Code: https://github.com/Mohit-Kucheriya/UltimateReact/tree/56cf1253cc1a2cb29c2b47e079016579ac705f15/Part-5_Full-Stack_React-with-Next.js/02_The-Wild-Oasis-Website
   
 ---
 
